@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mujtaba Bhatti</h1>
-<h3 align="center">A passionate Full and Mern developer from Pakistan.</h3>
+<h3 align="center">A passionate Full Stack and MERN Stack developer from Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blaccmujji911&label=Profile%20views&color=0e75b6&style=flat" alt="blaccmujji911" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://glittery-tarsier-f02ae6.netlify.app/](https://glittery-tarsier-f02ae6.netlify.app/)
 
-- 💬 Ask me about **React, jQuery etc**
+- 💬 Ask me about **React Js, React Native, Next Js, Node js and jQuery etc**
 
 - 📫 How to reach me **devmujtaba911@gmail.com**
 
