@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mujtaba Bhatti</h1>
 <h3 align="center">A passionate Full Stack and MERN Stack developer from Pakistan.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blaccmujji911&label=Profile%20views&color=0e75b6&style=flat" alt="blaccmujji911" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mujtababhatti09&label=Profile%20views&color=0e75b6&style=flat" alt="mujtababhatti09" /> </p>
 
 - 🔭 I’m currently working on **various projects**
 
@@ -27,12 +27,12 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/BLACCMUJJI911"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="BLACCMUJJI911" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/mujtababhatti09"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="BLACCMUJJI911" /></a></p><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blaccmujji911&show_icons=true&locale=en&layout=compact" alt="blaccmujji911" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mujtababhatti09&show_icons=true&locale=en&layout=compact" alt="blaccmujji911" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=blaccmujji911&show_icons=true&locale=en" alt="blaccmujji911" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mujtababhatti09&show_icons=true&locale=en" alt="blaccmujji911" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blaccmujji911&" alt="blaccmujji911" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mujtababhatti09&" alt="blaccmujji911" /></p>
 
