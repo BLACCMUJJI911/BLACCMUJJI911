@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **front and backend node js projects**
 
-- 👨‍💻 All of my projects are available at [https://glittery-tarsier-f02ae6.netlify.app/](https://glittery-tarsier-f02ae6.netlify.app/)
+- 👨‍💻 All of my projects are available at "portfolio but not updated"
 
 - 💬 Ask me about **React Js, React Native, Next Js, Node js and jQuery etc**
 
